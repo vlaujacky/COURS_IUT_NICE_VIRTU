@@ -1,12 +1,30 @@
 
 Google Form : https://forms.gle/Vmv7R1oWzWrf8XXYA
+
+
+
 Linkedin : https://www.linkedin.com/in/vlaujacky/
 
 
 
 
 
-
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 ########################## OLD VIRTU #######################################
 
 Remplir le Google Form : https://forms.gle/ax6evFDWBR5AcRaYA
