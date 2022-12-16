@@ -6,6 +6,8 @@ Google Form : https://forms.gle/Vmv7R1oWzWrf8XXYA
 Linkedin : https://www.linkedin.com/in/vlaujacky/
 
 
+Correction TP Docker : https://docs.docker.com/engine/install/debian/
+
 
 
 
